@@ -18,4 +18,8 @@ The folder **memid=46** is the output of one member.
   * Procedures (from Medical Claims),
   * Pharmacy   (from Pharmacy Claims)
 * **Feature Ids**
+
+# Sample output screenshot
+
+![img.png](img.png)
  
